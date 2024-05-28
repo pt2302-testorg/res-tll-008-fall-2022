@@ -1,0 +1,57 @@
+{
+  "term": "Fall",
+  "year": "2022",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    [
+      "Teaching and Education",
+      "Higher Education"
+    ]
+  ],
+  "legacy_uid": "4b630d24-af1d-39ef-ed88-f533aa11e4a0",
+  "instructors": {
+    "content": [
+      "e73fc091-38c7-d0e7-0666-4595e6a22978",
+      "a82bdf46-94f8-6a7a-7a3c-39dccc6b5001"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5bffed1d-b880-8a99-90e7-cce29e5b27c6",
+    "website": "res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021"
+  },
+  "course_title": "Social and Ethical Responsibilities of Computing (SERC)",
+  "course_description": "[Social and Ethical Responsibilities of Computing (SERC)](https://computing.mit.edu/cross-cutting/social-and-ethical-responsibilities-of-computing/), a cross-cutting initiative of the [MIT Schwarzman College of Computing](https://computing.mit.edu/), works to train students and facilitate research to assess the broad challenges and opportunities associated with computing, and improve design, policy, implementation, and impacts.\n\nThis site is a resource for SERC pedagogical materials developed for use in MIT courses. SERC brings together cross-disciplinary teams of faculty, researchers, and students to develop original pedagogical materials that meet our goal of training students to practice responsible technology development through incorporation of insights and methods from the humanities and social sciences, including an emphasis on social responsibility.\n\nMaterials include the [MIT Case Studies Series in Social and Ethical Responsibilities of Computing](https://mit-serc.pubpub.org/), original Active Learning Projects, and lecture materials that provide students hands-on practice and training in SERC, together with other resources and tools found useful in education at MIT. Original homework assignments and in-class demonstrations are specially created by multidisciplinary teams, to enable instructors to embed SERC-related material into a wide variety of existing courses.\n\nThe aim of SERC is to facilitate the development of responsible \u201chabits of mind and action\u201d for those who create and deploy computing technologies, and fostering the creation of technologies in the public interest.\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.TLL-008",
+  "course_image_thumbnail": {
+    "content": "b86111d8-d6bb-24c2-ec32-b796d0304008",
+    "website": "res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Instructor Insights",
+    "Multiple Assignment Types"
+  ],
+  "site_uid": "5075144e-f32f-465c-a7e0-e5abb35a5b74",
+  "site_short_id": "res-tll-008-fall-2022",
+  "title": "Course Metadata"
+}
