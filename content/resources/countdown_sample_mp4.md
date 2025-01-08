@@ -1,7 +1,7 @@
 ---
 body: ''
 content_type: resource
-draft: false
+draft: true
 file: /gdrive_uploads/restll-008-social-and-ethical-responsibilities-of-computing-serc/1oTGts9lG0swzgZ7l5Ng5wLOFZ24Lh2mR/countdown_sample.mp4
 file_size: 1156860
 file_type: video/mp4
