@@ -1,7 +1,7 @@
 leftnav:
 - identifier: ea6634c6-1841-f34c-97bd-e95620a88401
   name: Instructor Insights
-  pageRef: /pages/instructor-insights
+  pageRef: /pages/awesome-instructor-insights
   weight: 10
 - identifier: f803f749-08f1-c66f-60a3-cce1b7107d8d
   name: Privacy and Surveillance
