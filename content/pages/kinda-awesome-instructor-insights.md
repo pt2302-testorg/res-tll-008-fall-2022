@@ -7,7 +7,7 @@ draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
-title: Awesome Instructor Insights
+title: Kinda Awesome Instructor Insights
 uid: ea6634c6-1841-f34c-97bd-e95620a88401
 video_metadata:
   youtube_id: null
